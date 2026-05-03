@@ -1,6 +1,10 @@
+<div align="center">
+
 [![Python](https://img.shields.io/badge/Python-3.10%2B-blue?logo=python)](https://www.python.org/)
 [![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange?logo=jupyter)](https://jupyter.org/)
 [![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-ML-green?logo=scikitlearn)](https://scikit-learn.org/)
+
+</div>
 
 # Machine Learning Experiments (Jupyter Notebooks)
 
